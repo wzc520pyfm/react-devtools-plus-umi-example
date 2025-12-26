@@ -19,8 +19,8 @@ importers:
         specifier: ^18.0.11
         version: 18.3.7(@types/react@18.3.27)
       react-devtools-plus:
-        specifier: latest
-        version: 0.5.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@4.5.2(@types/node@25.0.3)(less@4.1.3)(lightningcss@1.22.1)(sass@1.54.0)(terser@5.44.1))(webpack@5.104.1)
+        specifier: ^0.5.3
+        version: 0.5.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@4.5.2(@types/node@25.0.3)(less@4.1.3)(lightningcss@1.22.1)(sass@1.54.0)(terser@5.44.1))(webpack@5.104.1)
       typescript:
         specifier: ^5.0.3
         version: 5.9.3
@@ -4156,8 +4156,8 @@ packages:
     resolution: {integrity: sha512-s4VSOf6yN0rvbRZGxs8Om5CWj6seneMwK3oDb4lWDH0UPhWcxwOWw5+qk24bxq87szX1ydrwylIOp2uG1ojUpA==, tarball: https://registry.npmjs.org/raw-body/-/raw-body-2.5.3.tgz}
     engines: {node: '>= 0.8'}
 
-  react-devtools-plus@0.5.0:
-    resolution: {integrity: sha512-3Q1gEQ7/AJVy35UikbbNlDQTa2/2MW/sfXa+H91ECBnre/ppctc0bsD3wSHpo+q8tCZiR/vUn4xAxvtmBOngtQ==, tarball: https://registry.npmjs.org/react-devtools-plus/-/react-devtools-plus-0.5.0.tgz}
+  react-devtools-plus@0.5.3:
+    resolution: {integrity: sha512-yn5IAbrS7/hRacYUklS93mxv29hdNeU2cu12zXLtz6eN9VtBYjXY5AVd9dbZwC4hCFmSEU9lTYqeXNE5itvXgg==, tarball: https://registry.npmjs.org/react-devtools-plus/-/react-devtools-plus-0.5.3.tgz}
     peerDependencies:
       next: ^13.0.0 || ^14.0.0 || ^15.0.0
       react: ^16.8.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
@@ -9943,7 +9943,7 @@ snapshots:
       iconv-lite: 0.4.24
       unpipe: 1.0.0
 
-  react-devtools-plus@0.5.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@4.5.2(@types/node@25.0.3)(less@4.1.3)(lightningcss@1.22.1)(sass@1.54.0)(terser@5.44.1))(webpack@5.104.1):
+  react-devtools-plus@0.5.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(vite@4.5.2(@types/node@25.0.3)(less@4.1.3)(lightningcss@1.22.1)(sass@1.54.0)(terser@5.44.1))(webpack@5.104.1):
     dependencies:
       '@babel/core': 7.28.5
       '@babel/plugin-syntax-jsx': 7.27.1(@babel/core@7.28.5)
