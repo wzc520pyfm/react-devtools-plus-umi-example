@@ -3,875 +3,875 @@
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/mfsu-virtual-entry/umi.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/cjs/react-refresh-runtime.development.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/features/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/cjs/react-refresh-runtime.development.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/client/client/client.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/client/constants.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/client/utils/formatWebpackMessages.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/client/ReactRefreshEntry.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/client/client/client.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/features/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/client/constants.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/client/utils/formatWebpackMessages.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/cjs/react-refresh-runtime.development.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/features/global-this.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/full/global-this.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/cjs/react-refresh-runtime.development.js",
       "deps": [],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/client/constants.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/client/constants.js",
       "deps": [],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/client/utils/formatWebpackMessages.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/client/utils/formatWebpackMessages.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+utils@4.6.15/node_modules/@umijs/utils/compiled/strip-ansi/index.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/utils/compiled/strip-ansi/index.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/features/global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/full/global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/full/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/modules/esnext.global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/actual/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/full/global-this.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/umi.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/objectSpread2.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/objectSpread2.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/polyfill.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/route.tsx",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/plugin.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/history.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/exports.ts",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react/index.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/index.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/client.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+utils@4.6.15/node_modules/@umijs/utils/compiled/strip-ansi/index.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/utils/compiled/strip-ansi/index.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+utils@4.6.15/node_modules/@umijs/utils/compiled/strip-ansi/index.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/utils/compiled/strip-ansi/index.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/full/global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/modules/esnext.global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/modules/esnext.global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/actual/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/full/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/modules/es.global-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/actual/global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/regeneratorRuntime.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/stable/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/actual/global-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/objectSpread2.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/defineProperty.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/objectSpread2.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/regeneratorRuntime.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/objectSpread2.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/asyncToGenerator.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/defineProperty.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/objectSpread2.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react@18.3.1/node_modules/react/cjs/react.development.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/asyncToGenerator.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react/index.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom.development.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react/cjs/react.development.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/client.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/index.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/index.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/cjs/react-dom.development.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/modules/esnext.global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/client.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/modules/es.global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/index.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/actual/global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/modules/es.global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/stable/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/actual/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/export.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/stable/global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/es/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/stable/global-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/defineProperty.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/toPropertyKey.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/defineProperty.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react@18.3.1/node_modules/react/cjs/react.development.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/defineProperty.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react@18.3.1/node_modules/react/cjs/react.development.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/toPropertyKey.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/defineProperty.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-dom@18.3.1_react@18.3.1/node_modules/react-dom/cjs/react-dom.development.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react/cjs/react.development.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react@18.3.1/node_modules/react/index.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/scheduler@0.23.2/node_modules/scheduler/index.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react/cjs/react.development.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-dom/cjs/react-dom.development.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react/index.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/scheduler/index.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/exports.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/defineApp.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/history.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/terminal.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/testBrowser.tsx",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/polyfill.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/route.tsx",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/plugin.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/helmet.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/exports.ts",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/history.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/objectSpread2.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/objectSpread2.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/modules/es.global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/export.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/export.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-apply.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this-clause.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-get-own-property-descriptor.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-forced.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/path.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-context.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-non-enumerable-property.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/has-own-property.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared-store.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/export.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/stable/global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/es/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/stable/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/toPropertyKey.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/es/global-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/toPrimitive.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/toPropertyKey.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/modules/es.global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/scheduler@0.23.2/node_modules/scheduler/index.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/toPropertyKey.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/scheduler@0.23.2/node_modules/scheduler/cjs/scheduler.development.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/toPrimitive.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/toPropertyKey.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/scheduler/index.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/scheduler/cjs/scheduler.development.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/defineApp.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/terminal.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/testBrowser.tsx",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/slicedToArray.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/regeneratorRuntime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/asyncToGenerator.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/slicedToArray.js",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/exports.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/history.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/plugin.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/route.tsx",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/export.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-apply.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-apply.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this-clause.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-get-own-property-descriptor.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-forced.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/path.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-context.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-non-enumerable-property.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/has-own-property.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared-store.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/export.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-native.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-apply.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this-clause.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/classof-raw.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this-clause.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/es/global-this.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/modules/es.global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/toPrimitive.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-get-own-property-descriptor.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/typeof.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/toPrimitive.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-call.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-property-is-enumerable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-property-descriptor.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-indexed-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-property-key.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/has-own-property.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ie8-dom-define.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/scheduler@0.23.2/node_modules/scheduler/cjs/scheduler.development.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-forced.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/scheduler@0.23.2/node_modules/scheduler/cjs/scheduler.development.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-forced.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/slicedToArray.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/path.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/arrayWithHoles.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/nonIterableRest.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/slicedToArray.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/path.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-context.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this-clause.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/a-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-native.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-context.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-non-enumerable-property.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-define-property.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-property-descriptor.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-non-enumerable-property.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/has-own-property.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/has-own-property.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared-store.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-pure.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/define-global-property.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared-store.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/toPrimitive.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/typeof.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/toPrimitive.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/scheduler/cjs/scheduler.development.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/scheduler/cjs/scheduler.development.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/slicedToArray.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/arrayWithHoles.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/nonIterableRest.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/slicedToArray.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/helmet.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/helmetContext.ts",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/layouts/index.tsx",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/exports.ts",
         "/home/wzc520pyfm/react-devtools-plus-umi-example/src/layouts/index.less?modules",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/pages/docs.tsx",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/pages/index.tsx",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-apply.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-native.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-native.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-apply.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-native.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this-clause.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/classof-raw.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/classof-raw.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this-clause.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/classof-raw.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-native.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-get-own-property-descriptor.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-call.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-property-is-enumerable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-property-descriptor.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-indexed-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-property-key.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/has-own-property.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ie8-dom-define.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-forced.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-call.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-forced.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-bind-native.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-call.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/path.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/path.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-context.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this-clause.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/a-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-native.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-context.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-non-enumerable-property.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-define-property.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-property-descriptor.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-non-enumerable-property.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/has-own-property.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/has-own-property.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared-store.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-pure.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/define-global-property.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared-store.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/arrayWithHoles.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/arrayWithHoles.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/arrayLikeToArray.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/nonIterableRest.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/nonIterableRest.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-native.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-native.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/classof-raw.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/classof-raw.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-native.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-call.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-bind-native.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-call.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-property-is-enumerable.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-property-is-enumerable.js",
       "deps": [],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-property-descriptor.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-property-descriptor.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/create-property-descriptor.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/create-property-descriptor.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-indexed-object.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-indexed-object.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/indexed-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/require-object-coercible.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-indexed-object.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/indexed-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/require-object-coercible.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-indexed-object.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-property-key.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-property-key.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-primitive.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-symbol.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-property-key.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-primitive.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-symbol.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-property-key.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ie8-dom-define.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ie8-dom-define.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/document-create-element.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ie8-dom-define.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/document-create-element.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ie8-dom-define.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/a-callable.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/a-callable.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/try-to-string.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/a-callable.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/try-to-string.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/a-callable.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-define-property.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-define-property.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ie8-dom-define.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/v8-prototype-define-bug.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/an-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-property-key.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ie8-dom-define.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/v8-prototype-define-bug.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/an-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-property-key.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-object.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-object.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/require-object-coercible.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-object.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/require-object-coercible.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-object.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-pure.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-pure.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-pure.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-pure.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/define-global-property.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/define-global-property.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/define-global-property.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/define-global-property.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/arrayLikeToArray.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/arrayWithHoles.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@babel+runtime@7.23.6/node_modules/@babel/runtime/helpers/arrayLikeToArray.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/arrayWithHoles.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/iterableToArrayLimit.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/arrayLikeToArray.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/nonIterableRest.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/nonIterableRest.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/indexed-object.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/classof-raw.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/indexed-object.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/require-object-coercible.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-null-or-undefined.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/require-object-coercible.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-primitive.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-call.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-symbol.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/get-method.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ordinary-to-primitive.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/well-known-symbol.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/to-primitive.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-symbol.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/get-built-in.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-is-prototype-of.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/use-symbol-as-uid.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-symbol.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/document-create-element.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/document-create-element.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/try-to-string.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/try-to-string.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/v8-prototype-define-bug.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/descriptors.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/v8-prototype-define-bug.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/an-object.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/an-object.js"
+      ],
+      "virtual": false
+    },
+    {
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/arrayLikeToArray.js",
+      "deps": [
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@babel/runtime/helpers/arrayLikeToArray.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/.umi/core/helmetContext.ts",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/react-refresh@0.14.0/node_modules/react-refresh/runtime.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+react-refresh-webpack-plugin@0.5.11_react-refresh@0.14.0_webpack@5.104.1/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/react-refresh/runtime.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js"
       ],
       "virtual": false
     },
     {
       "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/src/layouts/index.less?modules",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/indexed-object.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-null-or-undefined.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/classof-raw.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/indexed-object.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-null-or-undefined.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/require-object-coercible.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-object.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-null-or-undefined.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/require-object-coercible.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-object.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-primitive.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/get-method.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-call.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-symbol.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/get-method.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ordinary-to-primitive.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/well-known-symbol.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/to-primitive.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/a-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-null-or-undefined.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/get-method.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-symbol.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ordinary-to-primitive.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/get-built-in.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-is-prototype-of.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/use-symbol-as-uid.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-symbol.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-call.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-object.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/ordinary-to-primitive.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/document-create-element.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/well-known-symbol.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/document-create-element.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/has-own-property.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/uid.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/symbol-constructor-detection.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/use-symbol-as-uid.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/well-known-symbol.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/try-to-string.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/get-built-in.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/try-to-string.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/path.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/is-callable.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/get-built-in.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/v8-prototype-define-bug.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-is-prototype-of.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/descriptors.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/v8-prototype-define-bug.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/object-is-prototype-of.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/an-object.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/use-symbol-as-uid.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/an-object.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/symbol-constructor-detection.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/use-symbol-as-uid.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/normalize-url.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/normalize-url.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/hotModuleReplacement.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-null-or-undefined.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-null-or-undefined.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared-store.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/shared.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-object.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/uid.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-object.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/function-uncurry-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/uid.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/get-method.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/symbol-constructor-detection.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/a-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-null-or-undefined.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/get-method.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/environment-v8-version.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/fails.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/symbol-constructor-detection.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ordinary-to-primitive.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/normalize-url.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-call.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-object.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/ordinary-to-primitive.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/normalize-url.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/well-known-symbol.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/environment-v8-version.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/has-own-property.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/uid.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/symbol-constructor-detection.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/use-symbol-as-uid.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/well-known-symbol.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/environment-user-agent.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/environment-v8-version.js"
       ],
       "virtual": false
     },
     {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/get-built-in.js",
+      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/environment-user-agent.js",
       "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/path.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/is-callable.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/get-built-in.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-is-prototype-of.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/object-is-prototype-of.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/use-symbol-as-uid.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/symbol-constructor-detection.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/use-symbol-as-uid.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/normalize-url.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/@umijs+bundler-webpack@4.6.15_typescript@5.9.3_webpack@5.104.1/node_modules/@umijs/bundler-webpack/compiled/mini-css-extract-plugin/hmr/normalize-url.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared-store.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/shared.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/uid.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/function-uncurry-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/uid.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/symbol-constructor-detection.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/environment-v8-version.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/fails.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/symbol-constructor-detection.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/environment-v8-version.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/environment-user-agent.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/environment-v8-version.js"
-      ],
-      "virtual": false
-    },
-    {
-      "id": "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/environment-user-agent.js",
-      "deps": [
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/global-this.js",
-        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/.pnpm/core-js-pure@3.47.0/node_modules/core-js-pure/internals/environment-user-agent.js"
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/global-this.js",
+        "/home/wzc520pyfm/react-devtools-plus-umi-example/node_modules/core-js-pure/internals/environment-user-agent.js"
       ],
       "virtual": false
     }
